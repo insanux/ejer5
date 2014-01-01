@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "name": "Geolocalización",
+  "description": "Calcula rutas en mapa",
+  "launch_path": "/insanux/ejer5/edit/master/hosted/geo.html",
+  "icons": {
+    "16":  "/insanux/ejer5/edit/master/hosted/map_16.png",
+    "48":  "/insanux/ejer5/edit/master/hosted/map_48.png",
+    "128": "/insanux/ejer5/edit/master/hosted/map_128.png"
+  },
+  "developer": {
+    "name": "Live Fast, Die Fast Inc.",
+    "url": "http://inc.es"
+  }
+}
